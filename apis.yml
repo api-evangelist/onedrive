@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://developer.microsoft.com/onedrive
 common:
+  - type: VulnerabilityDisclosure
+    url: security/onedrive-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/onedrive-domain-security.yml
   - type: Website
     url: https://developer.microsoft.com/onedrive
   - type: PublicAPIsListing
